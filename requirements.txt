@@ -1,0 +1,17 @@
+# Flask core
+Flask==3.0.3
+flask-cors==4.0.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Secure token handling
+itsdangerous==2.2.0
+
+# HTTP requests (for OpenAI + Pushover)
+requests==2.32.3
+
+# Logging and JSON are part of stdlib (no need to add)
+
+# Optional (for Windows smoothness)
+colorama==0.4.6
